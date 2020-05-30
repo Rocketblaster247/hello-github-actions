@@ -1,1 +1,2 @@
- python3 ./main.py
+chmod a+x ./main.py
+./main.py
