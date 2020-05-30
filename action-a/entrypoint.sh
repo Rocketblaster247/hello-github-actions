@@ -1,2 +1,1 @@
-chmod a+x ./main.py
-./main.py
+chmod +x ./main.py
