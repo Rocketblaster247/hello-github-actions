@@ -1,3 +1,1 @@
-#!/bin/sh -l
- 
-py ./main.py
+ python ./main.py
